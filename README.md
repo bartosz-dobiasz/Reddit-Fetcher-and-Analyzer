@@ -3,7 +3,7 @@
 
 ### Description
 
-This project is designed to interact with the Reddit API to collect and analyze post data, storing it in an SQLite database. The application features several components, each responsible for different tasks including database management, data fetching, databases, cloud computing and visualization.
+This project is designed to interact with the Reddit API to collect and analyze post data, storing it in an SQLite database. The application features several components, each responsible for different tasks including database management, data fetching, databases and visualization.
 
 ### Components
 
